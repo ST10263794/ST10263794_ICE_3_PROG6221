@@ -1,0 +1,6 @@
+C:\Users\vidur\source\repos\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.CafeForm.resources
+C:\Users\vidur\source\repos\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.csproj.GenerateResource.cache
+C:\Users\vidur\source\repos\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidur\source\repos\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.AssemblyInfoInputs.cache
+C:\Users\vidur\source\repos\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.AssemblyInfo.cs
+C:\Users\vidur\source\repos\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.csproj.CoreCompileInputs.cache
